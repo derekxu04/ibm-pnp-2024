@@ -14,7 +14,7 @@ Keep in mind, there are no right answers, but remember to justify your choices. 
 
 - Implement a RAG pattern to get information about building codes and regulations in cities around the world for your client (a construction company)
 - Use your LLM and analysis from part 1 of the project (construction failure data) to determine a business strategy for your client about expansion order and maintaining successful projects
-- _Create a presentation outlining your choices for part 1 of the project, your choices for the RAG pattern design and implementation, your choices for the business strategy/actionables. Aim for 7-10 mins._
+- _Create a presentation outlining your choices for part 1 of the project, your choices for the RAG pattern design and implementation, your choices for the business strategy/actionables. Aim for 6-8 mins._
 - Remember to always justify your choices! Good luck :3
 
 ### This repo
